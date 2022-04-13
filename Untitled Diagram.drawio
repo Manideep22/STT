@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T10:32:16.789Z" agent="5.0 (Windows)" etag="9al1W7BNxF0ZDI9TZHx8" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T11:55:01.939Z" agent="5.0 (Windows)" etag="oqNkb6Fo7yBjdhpiU2Vr" version="17.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,62 +13,65 @@
             <mxPoint x="379" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-3" value="Read_csv() &amp;amp; Read_excel()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="470" width="390" height="45" as="geometry" />
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-3" value="Read_csv() &amp;amp; Read_excel() to store the dataframes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="220" width="390" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-4" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	1. &lt;/span&gt;Inputs from user like project details, user info &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2. Modules list Link&lt;br&gt;&lt;b&gt;&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;3. STT Report.csv Link&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;4. Generic Document Link.xlsx&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-4" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	1. &lt;/span&gt;Inputs from user like project details, user info &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2. All Modules list Link&lt;br&gt;&lt;b&gt;&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;3. STT Report.csv Link&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;4. Generic Document Link.xlsx&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="90" width="390" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-13" value="ESP-EC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348.37" y="860" width="55.63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-16" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="344.5" y="230" as="sourcePoint" />
-            <mxPoint x="345" y="270" as="targetPoint" />
+            <mxPoint x="342.49" y="170" as="sourcePoint" />
+            <mxPoint x="342" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-19" value="&lt;div&gt;Check the &lt;br&gt;&lt;/div&gt;&lt;div&gt;product ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285.62" y="750" width="118.75" height="100" as="geometry" />
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-19" value="&lt;div&gt;Check the &lt;br&gt;&lt;/div&gt;&lt;div&gt;product &amp;amp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;gen ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285.62" y="320" width="118.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-23" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000005;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="800" as="sourcePoint" />
-            <mxPoint x="490" y="900" as="targetPoint" />
+            <mxPoint x="420" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="800" />
+              <mxPoint x="520" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-24" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000005;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="800" as="sourcePoint" />
-            <mxPoint x="190" y="900" as="targetPoint" />
+            <mxPoint x="420" y="370" as="sourcePoint" />
+            <mxPoint x="160" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="800" />
+              <mxPoint x="160" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-25" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000005;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="800" as="sourcePoint" />
-            <mxPoint x="345" y="900" as="targetPoint" />
+            <mxPoint x="420" y="370" as="sourcePoint" />
+            <mxPoint x="345" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-26" value="&lt;b&gt;IPB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="781" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-30" value="ESP-DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="199" y="781" width="55.63" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-32" value="&lt;div&gt;Common function definition() for modules&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="570" width="390" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-34" value="&lt;div&gt;Create an array for HWLMs of their specific categories&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="149.99" y="270" width="390" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-36" value="# Project details, User Info, CSV report link selection will happen through GUI #" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="90" width="150" height="70" as="geometry" />
+          <mxGeometry x="550" y="90" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-37" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000005;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="266" as="sourcePoint" />
+            <mxPoint x="345" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-38" value="&lt;b&gt;IPB&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-39" value="&lt;b&gt;ESP-DC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-40" value="&lt;b&gt;ESP-EC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-41" value="# Common function to read csv &amp;amp; excel files #" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="207.5" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

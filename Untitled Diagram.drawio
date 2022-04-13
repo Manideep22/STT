@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T11:55:01.939Z" agent="5.0 (Windows)" etag="oqNkb6Fo7yBjdhpiU2Vr" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:29:11.207Z" agent="5.0 (Windows)" etag="mJrJe0Rxfdq51Gkk5HFb" version="17.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="379" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-3" value="Read_csv() &amp;amp; Read_excel() to store the dataframes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-3" value="Read_csv() &amp;amp; Read_excel() to store them in dataframes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="220" width="390" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-4" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	1. &lt;/span&gt;Inputs from user like project details, user info &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2. All Modules list Link&lt;br&gt;&lt;b&gt;&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;3. STT Report.csv Link&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;4. Generic Document Link.xlsx&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -25,7 +25,7 @@
             <mxPoint x="342" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-19" value="&lt;div&gt;Check the &lt;br&gt;&lt;/div&gt;&lt;div&gt;product &amp;amp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;gen ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Check&amp;nbsp; product&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285.62" y="320" width="118.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-23" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000005;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19">
@@ -61,17 +61,32 @@
             <mxPoint x="345" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000005;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-38" target="sJJRUJYA5-9Eo12VGWl3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-38" value="&lt;b&gt;IPB&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-39" value="&lt;b&gt;ESP-DC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-39" value="&lt;b&gt;ESP - DC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-40" value="&lt;b&gt;ESP-EC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000005;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-40" target="sJJRUJYA5-9Eo12VGWl3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-40" value="&lt;b&gt;ESP - EC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="450" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-41" value="# Common function to read csv &amp;amp; excel files #" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="207.5" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Special function(): when 2 modules were involved to produce teststep sequence &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="550" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-57" value="&lt;div&gt;# &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Motor Motsim4 = &lt;br&gt;&lt;/div&gt;&lt;div&gt;B6_Actuation + B6_Cur_Meas&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. APB = with RVP / wo RVP&lt;/div&gt;&lt;div&gt; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="531.5" width="235" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="sJJRUJYA5-9Eo12VGWl3-58" value="# Product variant and generation will be checked #" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="562.5" y="330" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

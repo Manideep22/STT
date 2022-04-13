@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T14:58:39.509Z" agent="5.0 (Windows)" etag="pv5FEJ0mbj93h19joXJH" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-13T15:01:11.553Z" agent="5.0 (Windows)" etag="kTnPdsR954Te64Rc2_7Z" version="17.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,8 +91,11 @@
         <mxCell id="rYvPCS0LZYQufS7g8COz-7" value="Not Available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="402.51" y="755" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rYvPCS0LZYQufS7g8COz-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Test Description will be stored in Var1&lt;/div&gt;&lt;div&gt;&lt;div&gt;Teststep Type will be stored in Var2&lt;br&gt;&lt;div&gt;Unit will be stored in Var3&lt;br&gt;...&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;Remarks will be stored in Var n&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#03030D;strokeColor=#0A0900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="212.5" y="910" width="224.99" height="120" as="geometry" />
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rYvPCS0LZYQufS7g8COz-8" target="T9vAiMAo6iDr71z8Z3Be-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYvPCS0LZYQufS7g8COz-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Test Description list will be stored in Var1&lt;/div&gt;&lt;div&gt;&lt;div&gt;Teststep Type list will be stored in Var2&lt;br&gt;&lt;div&gt;Unit list will be stored in Var3&lt;br&gt;...&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;Remarks list will be stored in Var n&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#03030D;strokeColor=#0A0900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="201.26" y="910" width="247.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rYvPCS0LZYQufS7g8COz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.428;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rYvPCS0LZYQufS7g8COz-9" target="rYvPCS0LZYQufS7g8COz-14">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +138,9 @@
         </mxCell>
         <mxCell id="rYvPCS0LZYQufS7g8COz-37" value="#&amp;nbsp; Teststep status will be checked.&amp;nbsp; #" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="530" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-1" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304.98999999999995" y="1090" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

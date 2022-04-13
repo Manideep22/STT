@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T15:18:57.088Z" agent="5.0 (Windows)" etag="rZaNacXFMT3DAhQgaUSP" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-13T15:22:23.322Z" agent="5.0 (Windows)" etag="MO6GQA-hr6o1EEzZlSpa" version="17.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,11 +187,20 @@
             <mxGeometry x="250" y="940" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="MK9e3nj66JQdaXOA44J0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#03030D;" edge="1" parent="1" source="HVSw1xQ9x_cZ-x7i5QM0-1" target="MK9e3nj66JQdaXOA44J0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HVSw1xQ9x_cZ-x7i5QM0-1" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="249.99999999999994" y="-1140" width="40" height="40" as="geometry" />
+          <mxGeometry x="249.99999999999994" y="-1110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MK9e3nj66JQdaXOA44J0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#03030D;" edge="1" parent="1" source="HVSw1xQ9x_cZ-x7i5QM0-2" target="MK9e3nj66JQdaXOA44J0-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HVSw1xQ9x_cZ-x7i5QM0-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="465.01" y="-1140" width="40" height="40" as="geometry" />
+          <mxGeometry x="470" y="-1110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MK9e3nj66JQdaXOA44J0-1" value="Create the STT Specification.xlsx file" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#03030D;strokeColor=#120F00;" vertex="1" parent="1">
+          <mxGeometry x="246" y="-1000" width="276" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

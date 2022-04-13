@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T15:09:22.208Z" agent="5.0 (Windows)" etag="vkbd-8AVzTLHunz21AXW" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-13T15:12:12.565Z" agent="5.0 (Windows)" etag="g7ILWpnrnYIhu9WjNfT5" version="17.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="359" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-3" target="sJJRUJYA5-9Eo12VGWl3-19">
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-3" target="T9vAiMAo6iDr71z8Z3Be-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-3" value="Read_csv() &amp;amp; Read_excel() to store them in dataframes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -27,18 +27,6 @@
             <mxPoint x="304.99" y="209" as="sourcePoint" />
             <mxPoint x="304.5" y="259" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19" target="sJJRUJYA5-9Eo12VGWl3-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19" target="sJJRUJYA5-9Eo12VGWl3-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sJJRUJYA5-9Eo12VGWl3-19" target="sJJRUJYA5-9Eo12VGWl3-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sJJRUJYA5-9Eo12VGWl3-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Check&amp;nbsp; product&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#e3c800;strokeColor=#0A0900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="266.41" y="344" width="77.19" height="75" as="geometry" />
         </mxCell>
         <mxCell id="sJJRUJYA5-9Eo12VGWl3-36" value="&lt;div&gt;# Project details, User Info, CSV report link selection will happen through GUI.&lt;/div&gt;&lt;div&gt;All Modules list &amp;amp; Generic doc sheets will be locked #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="129" width="220" height="70" as="geometry" />
@@ -144,6 +132,18 @@
         </mxCell>
         <mxCell id="T9vAiMAo6iDr71z8Z3Be-4" value="&lt;u&gt;STT Spec Automation Flowchart&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontColor=#03030D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="324.99" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T9vAiMAo6iDr71z8Z3Be-5" target="sJJRUJYA5-9Eo12VGWl3-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T9vAiMAo6iDr71z8Z3Be-5" target="sJJRUJYA5-9Eo12VGWl3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T9vAiMAo6iDr71z8Z3Be-5" target="sJJRUJYA5-9Eo12VGWl3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9vAiMAo6iDr71z8Z3Be-5" value="&lt;div&gt;Check product&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#120F00;fillColor=#e3c800;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265.01000000000005" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

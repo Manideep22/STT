@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T07:03:02.042Z" agent="5.0 (Windows)" etag="S9PeO2isXfRu55kF-osm" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-14T07:10:50.351Z" agent="5.0 (Windows)" etag="Afgf7rZ18ZfNc-Crut2V" version="17.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -163,12 +163,10 @@
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="465" y="1190" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oP8kGOYzSXZp8YvEJjyW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="oP8kGOYzSXZp8YvEJjyW-4" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="325" y="1560" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="lWemlZCQzADTL8tFUoLw-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oP8kGOYzSXZp8YvEJjyW-4" target="oP8kGOYzSXZp8YvEJjyW-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oP8kGOYzSXZp8YvEJjyW-4" value="Test Description, Teststep Type, Unit, TSI Command, Wait time, Conv Factor will be stored in separate variables" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#120F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oP8kGOYzSXZp8YvEJjyW-4" value="Teststep Description, Teststep Type, Unit, TSI Command, Wait time, Conv Factor will be stored in separate variables" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#120F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="1440" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-5" value="&lt;div&gt;Each Config will be added into loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontColor=#03030D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -176,20 +174,20 @@
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="195" y="1400" as="sourcePoint" />
+            <mxPoint x="200" y="1400" as="sourcePoint" />
             <mxPoint x="485" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oP8kGOYzSXZp8YvEJjyW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oP8kGOYzSXZp8YvEJjyW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oP8kGOYzSXZp8YvEJjyW-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485.25" y="1397.5" as="sourcePoint" />
-            <mxPoint x="484.75" y="1230" as="targetPoint" />
+            <mxPoint x="485.25" y="1400.5" as="sourcePoint" />
+            <mxPoint x="484.75" y="1233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1400" as="sourcePoint" />
-            <mxPoint x="199.5" y="1335" as="targetPoint" />
+            <mxPoint x="199" y="1400" as="sourcePoint" />
+            <mxPoint x="198.5" y="1335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -216,8 +214,8 @@
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="oP8kGOYzSXZp8YvEJjyW-16" target="oP8kGOYzSXZp8YvEJjyW-18" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oP8kGOYzSXZp8YvEJjyW-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Identify operating voltage of modules&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#120F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="184" y="1560" width="286" height="50" as="geometry" />
+        <mxCell id="oP8kGOYzSXZp8YvEJjyW-16" value="&lt;div&gt;Identify operating voltage of modules in loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#120F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="157" y="1560" width="336" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-17" value="16V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="1690" width="40" height="40" as="geometry" />

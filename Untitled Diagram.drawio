@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T08:35:51.141Z" agent="5.0 (Windows)" etag="IQ2bU6BhWAMfLKcc7z5D" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T08:37:28.343Z" agent="5.0 (Windows)" etag="cwa4K5tmJpOfaD0bV7Ww" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="918" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,8 +730,8 @@
         <mxCell id="9YLodaeSadizynSN2vQj-14" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#0F0400;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="467" y="1085" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9YLodaeSadizynSN2vQj-15" value="#&amp;nbsp; Filtering will be happened through involvement of 2nd module#" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="795" width="210" height="70" as="geometry" />
+        <mxCell id="9YLodaeSadizynSN2vQj-15" value="&lt;div&gt;#&amp;nbsp; Filtering will be happened &lt;br&gt;&lt;/div&gt;&lt;div&gt;through availability of &lt;br&gt;&lt;/div&gt;&lt;div&gt;2nd module&amp;nbsp; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="805" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

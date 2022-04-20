@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T13:36:38.035Z" agent="5.0 (Windows)" etag="Zbrv3JKHrCY35nDQMZL4" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T13:47:35.425Z" agent="5.0 (Windows)" etag="7eO8dGjY5TEbbR4fS27-" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1020" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -963,7 +963,10 @@
           <mxGeometry x="29" y="495" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eTiv3quMXiUt10ybYnx--1" value="&lt;div&gt;Special function(): when 2 modules were involved&lt;/div&gt;&lt;div&gt; to produce teststep sequence &lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="320" height="60" as="geometry" />
+          <mxGeometry x="234" y="140" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ipP07fB5s7XMSti6-huI-1" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#0F0400;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="374" y="30" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

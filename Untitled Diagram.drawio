@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T08:48:25.497Z" agent="5.0 (Windows)" etag="3a_ArOGyLaICO5I0Pu6S" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T08:58:28.531Z" agent="5.0 (Windows)" etag="XW5au9SBk7RgOTxbJmm2" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="918" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,35 +751,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FIni1Fecd_8x-vQjEW7E-3" value="&lt;div align=&quot;left&quot;&gt;# &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Motor Motsim4 = B6_Actuation + B6_Cur_Meas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. APB = with RVP / wo RVP&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="520" y="130" width="280" height="97" as="geometry" />
+          <mxGeometry x="519" y="410" width="280" height="97" as="geometry" />
         </mxCell>
         <mxCell id="7NMSlRgR4Z4k9BwjG0tE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIni1Fecd_8x-vQjEW7E-5" target="7NMSlRgR4Z4k9BwjG0tE-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIni1Fecd_8x-vQjEW7E-5" value="&lt;div&gt;Check &lt;br&gt;&lt;/div&gt;&lt;div&gt;Config&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#f0a30a;strokeColor=#170E00;" parent="1" vertex="1">
-          <mxGeometry x="330" y="200" width="96" height="90" as="geometry" />
+          <mxGeometry x="329" y="480" width="96" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIni1Fecd_8x-vQjEW7E-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" parent="1" vertex="1">
-          <mxGeometry x="600" y="460" width="90" height="30" as="geometry" />
+          <mxGeometry x="580" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font color=&quot;#03030D&quot;&gt;Original Motor&lt;/font&gt;" placeholders="1" name="Variable" id="FIni1Fecd_8x-vQjEW7E-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#3333FF;" parent="1" vertex="1">
-            <mxGeometry x="230" y="210" width="80" height="20" as="geometry" />
+            <mxGeometry x="229" y="490" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font color=&quot;#02020A&quot;&gt;Motsim4&lt;/font&gt;" placeholders="1" name="Variable" id="FIni1Fecd_8x-vQjEW7E-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#3333FF;" parent="1" vertex="1">
-            <mxGeometry x="400" y="300" width="80" height="20" as="geometry" />
+            <mxGeometry x="399" y="580" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="NKhnbCWe6VRE0e6z6hB6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NKhnbCWe6VRE0e6z6hB6-1" target="FIni1Fecd_8x-vQjEW7E-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NKhnbCWe6VRE0e6z6hB6-1" value="&lt;div&gt;Special function(): when 2 modules were involved&lt;/div&gt;&lt;div&gt; to produce teststep sequence &lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="218" y="70" width="320" height="60" as="geometry" />
+        <mxCell id="NKhnbCWe6VRE0e6z6hB6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FIni1Fecd_8x-vQjEW7E-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="410" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7NMSlRgR4Z4k9BwjG0tE-1" value="Return to STT Report Teststeps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="30" y="215" width="170" height="60" as="geometry" />
+          <mxGeometry x="29" y="495" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTiv3quMXiUt10ybYnx--1" value="&lt;div&gt;Special function(): when 2 modules were involved&lt;/div&gt;&lt;div&gt; to produce teststep sequence &lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

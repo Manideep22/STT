@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T08:37:28.343Z" agent="5.0 (Windows)" etag="cwa4K5tmJpOfaD0bV7Ww" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T08:48:25.497Z" agent="5.0 (Windows)" etag="3a_ArOGyLaICO5I0Pu6S" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="918" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
           <mxGeometry x="89.99999999999994" y="1190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#0F0400;fillColor=#fa6800;fontStyle=1;fontSize=25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="465" y="1190" width="40" height="40" as="geometry" />
+          <mxGeometry x="547" y="1190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-5" value="&lt;div&gt;Each Config from STT Report will be added into loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1290" width="320" height="45" as="geometry" />
@@ -163,13 +163,13 @@
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1400" as="sourcePoint" />
-            <mxPoint x="485" y="1400" as="targetPoint" />
+            <mxPoint x="570" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oP8kGOYzSXZp8YvEJjyW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oP8kGOYzSXZp8YvEJjyW-2" edge="1">
+        <mxCell id="oP8kGOYzSXZp8YvEJjyW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485.25" y="1400.5" as="sourcePoint" />
-            <mxPoint x="484.75" y="1233" as="targetPoint" />
+            <mxPoint x="569" y="1400" as="sourcePoint" />
+            <mxPoint x="569" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oP8kGOYzSXZp8YvEJjyW-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -733,6 +733,15 @@
         <mxCell id="9YLodaeSadizynSN2vQj-15" value="&lt;div&gt;#&amp;nbsp; Filtering will be happened &lt;br&gt;&lt;/div&gt;&lt;div&gt;through availability of &lt;br&gt;&lt;/div&gt;&lt;div&gt;2nd module&amp;nbsp; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="805" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ZOaEIOB3XjGVWHtG780Q-0" value="&lt;div&gt;From Special fun()&lt;/div&gt;&lt;div&gt; configuration&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373.5" y="1200" width="146.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOaEIOB3XjGVWHtG780Q-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#03030D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442" y="1400" as="sourcePoint" />
+            <mxPoint x="442" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -741,45 +750,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FIni1Fecd_8x-vQjEW7E-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Special function(): when 2 modules were involved to produce teststep sequence &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" parent="1" vertex="1">
-          <mxGeometry x="260" y="200" width="290" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="FIni1Fecd_8x-vQjEW7E-3" value="&lt;div align=&quot;left&quot;&gt;# &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Motor Motsim4 = B6_Actuation + B6_Cur_Meas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. APB = with RVP / wo RVP&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="530" y="243" width="280" height="97" as="geometry" />
+          <mxGeometry x="520" y="130" width="280" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="FIni1Fecd_8x-vQjEW7E-5" value="&lt;div&gt;Check &lt;br&gt;&lt;/div&gt;&lt;div&gt;Config&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000005;" parent="1" vertex="1">
-          <mxGeometry x="354.01" y="320" width="96" height="90" as="geometry" />
+        <mxCell id="7NMSlRgR4Z4k9BwjG0tE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIni1Fecd_8x-vQjEW7E-5" target="7NMSlRgR4Z4k9BwjG0tE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIni1Fecd_8x-vQjEW7E-5" value="&lt;div&gt;Check &lt;br&gt;&lt;/div&gt;&lt;div&gt;Config&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#f0a30a;strokeColor=#170E00;" parent="1" vertex="1">
+          <mxGeometry x="330" y="200" width="96" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIni1Fecd_8x-vQjEW7E-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000005;" parent="1" vertex="1">
           <mxGeometry x="600" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font color=&quot;#03030D&quot;&gt;Original Motor&lt;/font&gt;" placeholders="1" name="Variable" id="FIni1Fecd_8x-vQjEW7E-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#3333FF;" parent="1" vertex="1">
-            <mxGeometry x="460" y="340" width="80" height="20" as="geometry" />
+            <mxGeometry x="230" y="210" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font color=&quot;#02020A&quot;&gt;Motsim4&lt;/font&gt;" placeholders="1" name="Variable" id="FIni1Fecd_8x-vQjEW7E-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#3333FF;" parent="1" vertex="1">
-            <mxGeometry x="210" y="330" width="80" height="20" as="geometry" />
+            <mxGeometry x="400" y="300" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1JX5kENVYxfT6CFl9ceJ-1" target="FIni1Fecd_8x-vQjEW7E-2">
+        <mxCell id="NKhnbCWe6VRE0e6z6hB6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NKhnbCWe6VRE0e6z6hB6-1" target="FIni1Fecd_8x-vQjEW7E-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-1" value="&lt;b&gt;ESP - DC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#0A0900;" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="90" height="40" as="geometry" />
+        <mxCell id="NKhnbCWe6VRE0e6z6hB6-1" value="&lt;div&gt;Special function(): when 2 modules were involved&lt;/div&gt;&lt;div&gt; to produce teststep sequence &lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="218" y="70" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JX5kENVYxfT6CFl9ceJ-2" target="FIni1Fecd_8x-vQjEW7E-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-2" value="&lt;b&gt;ESP - EC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0A0900;" vertex="1" parent="1">
-          <mxGeometry x="360.01" y="70" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JX5kENVYxfT6CFl9ceJ-3" target="FIni1Fecd_8x-vQjEW7E-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JX5kENVYxfT6CFl9ceJ-3" value="&lt;b&gt;IPB&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#0A0900;" vertex="1" parent="1">
-          <mxGeometry x="550" y="70" width="90" height="40" as="geometry" />
+        <mxCell id="7NMSlRgR4Z4k9BwjG0tE-1" value="Return to STT Report Teststeps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="30" y="215" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T12:25:27.322Z" agent="5.0 (Windows)" etag="lNdAtem3W2TUfxVRfZ1D" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T12:53:23.024Z" agent="5.0 (Windows)" etag="YxZmFYDjIvM0MMpvBky_" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1020" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,45 +124,6 @@
         <mxCell id="snfneStJWdSRdX8E7I__-75" value="&lt;div&gt;Select each temperature&lt;/div&gt;&lt;div&gt;Min &amp;amp; Max limits in loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="204.5" y="3010" width="212.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-93" target="snfneStJWdSRdX8E7I__-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-93" target="snfneStJWdSRdX8E7I__-98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-93" value="&lt;div&gt;Close&amp;nbsp; temperature&lt;/div&gt;&lt;div&gt;Min &amp;amp; Max limits&amp;nbsp; loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="315.25" y="3630" width="212.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-97" target="snfneStJWdSRdX8E7I__-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-97" value="&lt;div&gt;Close temperature&lt;/div&gt;&lt;div&gt; for each operating voltage loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="195.25" y="3750" width="222.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-98" target="snfneStJWdSRdX8E7I__-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-98" value="Close Failure limits loop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="417.75" y="3750" width="198" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-102" target="snfneStJWdSRdX8E7I__-284" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-102" target="snfneStJWdSRdX8E7I__-285" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-102" value="&lt;div&gt;Close operating voltage for each module loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="249.25" y="3880" width="336" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-107" target="snfneStJWdSRdX8E7I__-110" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-107" value="&lt;div&gt;Close Configuration&amp;nbsp; loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270.5" y="4230" width="270" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-110" value="&lt;div&gt;Close module loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270.5" y="4350" width="270" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="snfneStJWdSRdX8E7I__-112" value="&lt;div&gt;# &lt;b&gt;Configurations:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;01. W/O HU&lt;/div&gt;&lt;div&gt;02. with HU&lt;/div&gt;&lt;div&gt;03. Killed valves &lt;br&gt;&lt;/div&gt;&lt;div&gt;04. Original Motor&lt;/div&gt;&lt;div&gt;05. VDA&lt;/div&gt;&lt;div&gt;06. DF11i&lt;/div&gt;&lt;div&gt;07. DF11s&lt;/div&gt;&lt;div&gt;08. CAN&lt;/div&gt;&lt;div&gt;09. CAN-Echo&lt;/div&gt;&lt;div&gt;10. CAN-Bus Load&lt;/div&gt;&lt;div&gt;11. Flexray&lt;/div&gt;&lt;div&gt;12. Flexray Echo&lt;/div&gt;&lt;div&gt;13. LIN-Echo&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="608.5" y="930" width="210" height="70" as="geometry" />
         </mxCell>
@@ -233,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-126" value="Teststep Type" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0400;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="snfneStJWdSRdX8E7I__-126" value="Enable lines" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0400;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="234.22" y="1365" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="snfneStJWdSRdX8E7I__-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-127" target="snfneStJWdSRdX8E7I__-150" edge="1">
@@ -283,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-132" value="Enable lines &amp;amp; Remarks" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0400;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="snfneStJWdSRdX8E7I__-132" value="&amp;nbsp;Remarks" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0400;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435.21000000000004" y="1434" width="94.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="snfneStJWdSRdX8E7I__-138" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -514,29 +475,11 @@
         <mxCell id="snfneStJWdSRdX8E7I__-264" value="Go for STT Limits" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0400;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="313.38" y="2650" width="154.99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-282" target="snfneStJWdSRdX8E7I__-93" edge="1">
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-282" target="RRgUqLvPFwYs8PCQudtX-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snfneStJWdSRdX8E7I__-282" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#fa6800;fontStyle=1;fontSize=25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="3540" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-284" target="snfneStJWdSRdX8E7I__-289" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-284" value="&lt;div&gt;Close the module check loop &lt;br&gt;&lt;/div&gt;&lt;div&gt;@16V, 14V, 11V, 9V&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="4010" width="240" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-285" target="snfneStJWdSRdX8E7I__-289" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-285" value="&lt;div&gt;Close the module check loop &lt;br&gt;&lt;/div&gt;&lt;div&gt;@ All voltages&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="4010" width="240" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snfneStJWdSRdX8E7I__-289" target="snfneStJWdSRdX8E7I__-107" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snfneStJWdSRdX8E7I__-289" value="Close addition of Test Details from STT Report loop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="235.5" y="4130" width="340" height="45" as="geometry" />
+          <mxGeometry x="567" y="3540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9YLodaeSadizynSN2vQj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9YLodaeSadizynSN2vQj-0">
           <mxGeometry relative="1" as="geometry">
@@ -556,7 +499,7 @@
           <mxGeometry x="342.49" y="526.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9YLodaeSadizynSN2vQj-15" value="&lt;div&gt;#&amp;nbsp; Filtering will be happened &lt;br&gt;&lt;/div&gt;&lt;div&gt;through availability of &lt;br&gt;&lt;/div&gt;&lt;div&gt;2nd module&amp;nbsp; #&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="483" y="440" width="210" height="70" as="geometry" />
+          <mxGeometry x="540.5" y="515" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RRgUqLvPFwYs8PCQudtX-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000005;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="593" y="-50" width="220" height="70" as="geometry" />
@@ -728,11 +671,142 @@
         <mxCell id="RRgUqLvPFwYs8PCQudtX-94" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374.01" y="2270" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RRgUqLvPFwYs8PCQudtX-104" value="Here comes the testbench specific data in " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-104" target="RRgUqLvPFwYs8PCQudtX-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-104" value="Here comes the testbench specific data in Generic document " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477" y="3260" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RRgUqLvPFwYs8PCQudtX-106" value="Filter the data " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="478.98" y="3360" width="212.5" height="40" as="geometry" />
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-106" target="RRgUqLvPFwYs8PCQudtX-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-106" value="Filter the required data wrt to HWLM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="387" y="3360" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-107" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#fa6800;fontStyle=1;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="567" y="3450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-112" target="RRgUqLvPFwYs8PCQudtX-114" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-112" target="RRgUqLvPFwYs8PCQudtX-116" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-112" value="&lt;div&gt;Close&amp;nbsp; temperature&lt;/div&gt;&lt;div&gt;Min &amp;amp; Max limits&amp;nbsp; loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316.47" y="4720" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-114" target="RRgUqLvPFwYs8PCQudtX-119" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-114" value="&lt;div&gt;Close temperature&lt;/div&gt;&lt;div&gt; for each operating voltage loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="196.47000000000003" y="4840" width="222.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-116" target="RRgUqLvPFwYs8PCQudtX-119" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-116" value="Close Failure limits loop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="418.97" y="4840" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-119" target="RRgUqLvPFwYs8PCQudtX-124" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-119" target="RRgUqLvPFwYs8PCQudtX-126" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-119" value="&lt;div&gt;Close operating voltage for each module loop&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250.47000000000003" y="4970" width="336" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-121" target="RRgUqLvPFwYs8PCQudtX-122" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-121" value="&lt;div&gt;Close Configuration&amp;nbsp; loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="271.72" y="5320" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-122" value="&lt;div&gt;Close module loop&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="271.72" y="5440" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-124" target="RRgUqLvPFwYs8PCQudtX-128" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-124" value="&lt;div&gt;Close the module check loop &lt;br&gt;&lt;/div&gt;&lt;div&gt;@16V, 14V, 11V, 9V&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171.22000000000003" y="5100" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-126" target="RRgUqLvPFwYs8PCQudtX-128" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-126" value="&lt;div&gt;Close the module check loop &lt;br&gt;&lt;/div&gt;&lt;div&gt;@ All voltages&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="411.22" y="5100" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#03030D;" edge="1" source="RRgUqLvPFwYs8PCQudtX-128" target="RRgUqLvPFwYs8PCQudtX-121" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-128" value="Close addition of Test Details from STT Report loop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="236.72000000000003" y="5220" width="340" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-129" target="RRgUqLvPFwYs8PCQudtX-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-129" value="Add the teststeps from Generic Document to STT Specification file" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="3820" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-130" target="RRgUqLvPFwYs8PCQudtX-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-130" value="&lt;div&gt;Teststeps &lt;br&gt;&lt;/div&gt;&lt;div&gt;needs to be&lt;/div&gt;&lt;div&gt; added from generic Document &lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#140C00;fillColor=#f0a30a;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295.81" y="3650" width="128.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-131" target="RRgUqLvPFwYs8PCQudtX-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="3710" />
+              <mxPoint x="110" y="4170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-131" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235.80999999999997" y="3680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-132" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364.23" y="3770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-134" target="RRgUqLvPFwYs8PCQudtX-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-134" value="Read the STT Specification file" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="236.63" y="3920" width="246.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RRgUqLvPFwYs8PCQudtX-136" target="RRgUqLvPFwYs8PCQudtX-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-136" value="&lt;div&gt;Sort the order of teststeps in STT Specification file &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;change the mode to write&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="187.5" y="4020" width="344.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-139" value="Add the column information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontSize=12;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="231.98999999999998" y="4140" width="256.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-144" value="Teststep Type " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="62.829999999999984" y="4280" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-145" value="Measurement Pin" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="136.23" y="4370" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-146" value="Reference" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="387" y="4280" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-147" value="Relay-1 to Relay-7 Condition" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414.01" y="4380" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-148" value="Load condition / Switch Relays for CAN / FR / LIN…" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="258.98" y="4480" width="161.02" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-149" value="Measure Time" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="467.5" y="4480" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-150" value="TSI Response &amp;amp; ID" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="258.98" y="4560" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRgUqLvPFwYs8PCQudtX-151" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#03030D;strokeColor=#0F0D00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="528.97" y="4560" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
